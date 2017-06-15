@@ -1,0 +1,17 @@
+{
+    "name": "fuxu/larasitemap",
+    "description": "A simple sitemap generator for Laravel.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fu Xu",
+            "email": "fuxu@fuxu.name"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "FuXu\\LaraSitemap\\": "src/"
+        }
+    }
+}
