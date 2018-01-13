@@ -17,5 +17,12 @@
         "psr-4": {
             "FuXu\\LaraSitemap\\": "src/"
         }
-    }
+    },
+    "extra": {
+		"laravel": {
+			"providers": [
+				"FuXu\\LaraSitemap\\SitemapServiceProvider"
+			]
+		}
+	}
 }
