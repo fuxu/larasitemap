@@ -9,6 +9,10 @@
             "email": "fuxu@fuxu.name"
         }
     ],
+    "require": {
+        "php": ">=7.0.0",
+        "illuminate/support": "5.5.*"
+    },
     "autoload": {
         "psr-4": {
             "FuXu\\LaraSitemap\\": "src/"
